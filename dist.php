@@ -6,7 +6,7 @@
 
 <body>
 <?php
-/* 444477 */
+/* 8 */
 if(isset($_POST['C'])):
 $a = str_replace ( ' ', '+', $_POST['A'] );
 $b = str_replace ( ' ', '+', $_POST['B'] );
